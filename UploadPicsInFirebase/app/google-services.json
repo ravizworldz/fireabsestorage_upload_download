@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852512240113",
+    "project_id": "newstoragetest",
+    "storage_bucket": "newstoragetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852512240113:android:b891b3b0a542ea83af9450",
+        "android_client_info": {
+          "package_name": "com.android.uploadpicsinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852512240113-mlsbmah45pl3mb95ijba9kmpi3bfoou0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwJdTPYzQ2gZ9rCWXZPlv6_pSkVW_7sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852512240113-mlsbmah45pl3mb95ijba9kmpi3bfoou0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
